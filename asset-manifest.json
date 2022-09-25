@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/GobinB.github.io/static/css/main.754ab6ad.chunk.css",
-    "main.js": "/GobinB.github.io/static/js/main.f06f95ec.chunk.js",
-    "main.js.map": "/GobinB.github.io/static/js/main.f06f95ec.chunk.js.map",
+    "main.css": "/GobinB.github.io/static/css/main.243e3d30.chunk.css",
+    "main.js": "/GobinB.github.io/static/js/main.19afac7b.chunk.js",
+    "main.js.map": "/GobinB.github.io/static/js/main.19afac7b.chunk.js.map",
     "runtime-main.js": "/GobinB.github.io/static/js/runtime-main.8414012d.js",
     "runtime-main.js.map": "/GobinB.github.io/static/js/runtime-main.8414012d.js.map",
     "static/js/2.cfccba71.chunk.js": "/GobinB.github.io/static/js/2.cfccba71.chunk.js",
     "static/js/2.cfccba71.chunk.js.map": "/GobinB.github.io/static/js/2.cfccba71.chunk.js.map",
     "index.html": "/GobinB.github.io/index.html",
-    "static/css/main.754ab6ad.chunk.css.map": "/GobinB.github.io/static/css/main.754ab6ad.chunk.css.map",
+    "static/css/main.243e3d30.chunk.css.map": "/GobinB.github.io/static/css/main.243e3d30.chunk.css.map",
     "static/js/2.cfccba71.chunk.js.LICENSE.txt": "/GobinB.github.io/static/js/2.cfccba71.chunk.js.LICENSE.txt",
     "static/media/CCode.7c099eb1.png": "/GobinB.github.io/static/media/CCode.7c099eb1.png",
     "static/media/address.a01cb8cc.png": "/GobinB.github.io/static/media/address.a01cb8cc.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.8414012d.js",
     "static/js/2.cfccba71.chunk.js",
-    "static/css/main.754ab6ad.chunk.css",
-    "static/js/main.f06f95ec.chunk.js"
+    "static/css/main.243e3d30.chunk.css",
+    "static/js/main.19afac7b.chunk.js"
   ]
 }
