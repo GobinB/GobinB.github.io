@@ -37,6 +37,11 @@
 
 }
 
+.i-desc{
+    font-size: 20px;
+    font-weight: 300;
+}
+
 .i-title-wrapper{
     height: 100%;
     animation: move 10s ease-in-out infinite alternate;

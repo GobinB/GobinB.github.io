@@ -41,19 +41,23 @@ const Contact = () => {
                         Contact Info
                     </h1>
                     <div className="c-info">
+                    <a href="https://www.linkedin.com/in/gobinbastola/" target="_blank">
                         <div className="c-info-item">
                             <img src={Linkedin}
                                 alt=""
+                                href="https://www.linkedin.com"
                                 className="c-icon"
                             />
                             linkedin.com/in/gobinbastola
                         </div>
+                        </a>
                         <div className="c-info-item">
-                            <img src={Email}
+                        <a href = "mailto: bastolagobin@gmail.com"><img src={Email}
                                 alt=""
                                 className="c-icon"
                             />
-                            bastolagobin@gmail.com
+                            bastolagobin@gmail.com</a>
+                            
                         </div>
                         <div className="c-info-item">
                             <img src={Address}

@@ -18,7 +18,7 @@ const Intro = () => {
                         </div>
                     </div>  
                     <p className="i-desc">
-                        I am currently a Software Enginner Intern @ KFC Yum! Brands | Studying Computer Science @ University of Louisville.
+                        I am currently a Software Engineering Intern @ KFC Yum! Brands, <br></br> studying Computer Science @ University of Louisville.
                     </p>
                 </div>
                 <svg
