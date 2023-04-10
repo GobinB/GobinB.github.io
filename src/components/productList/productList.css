@@ -7,34 +7,35 @@
 }
 
 .pl-texts{
-    width: 65%;
+    width: 100%; /* Change from 65% to 100% to fill the entire width of the container */
 }
 
 .pl-title{
     font-size: 50px;
     font-weight: 600;
-}
-
-.pl-desc{
-    margin: 20px 0px;
+    margin-bottom: 20px; /* Add a margin bottom to separate from the following content */
 }
 
 .pl-list{
     margin-top: 50px;
     display: flex;
-    align-items: center;
-    justify-content: space-evenly;
+    flex-direction: column; /* Change from row to column to stack the elements */
+    align-items: center; /* Center the elements horizontally */
 }
 
 .work-img{
     width: 130px;
     height: 130px;
     border-radius: 20px;
-    align-items: vertical;
+    margin-bottom: 20px; /* Add a margin bottom to separate from the following content */
+}
 
+.work-body {
+    width: 100%; /* Change from calc(100% - 200px) to 100% to fill the entire width of the container */
 }
 
 .work-p{
     font-size: 20px;
-    font-weight: 10;
+    font-weight: 400; /* Change from 10 to 400 to use a valid font-weight value */
+    margin-bottom: 10px; /* Add a margin bottom to separate from the following content */
 }

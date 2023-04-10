@@ -21,7 +21,7 @@ const About = () => {
             in Computer Science.
             <ul>
               <li><b>Cumulative GPA</b>: 3.7</li>
-              <li><b>Relevant Coursework</b>: Data Structures, Object-Oriented Programming with Java, Python Programming, Software Enginnering (ongoing), Database (ongoing), Computer Systems and Organization (ongoing), Discrete Structures (ongoing) </li>
+              <li><b>Relevant Coursework</b>: Data Structures, Object-Oriented Programming with Java, Python Programming, Software Enginnering, Database, Computer Systems and Organization, Discrete Structures. </li>
             </ul>
         </p>
         <p className="a-desc">
