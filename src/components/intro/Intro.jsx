@@ -18,7 +18,7 @@ const Intro = () => {
                         </div>
                     </div>  
                     <p className="i-desc">
-                        Student <em> @ </em> UofL | Software Enginner <em>@</em> Northrop Grumman
+                        Student <em> @ </em> UofL | DevOps Enginner Intern <em>@</em> KeyBank
                     </p>
                 </div>
                 <svg

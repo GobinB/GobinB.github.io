@@ -4,7 +4,7 @@ import Product from "../product/Product"
 import { products } from "../../data";
 import KFC from "../../img/kfc.png"
 import NG from "../../img/ng.png"
-import KYWORKS from "../../img/kyworks.png"
+import KB from "../../img/KeyBankLogo.png"
 
 class ProductList extends Component {
   constructor(props) {
@@ -12,10 +12,16 @@ class ProductList extends Component {
     this.state = {
       productList: [
         {
+          img: KB,
+          title: "DevOps Engineer Intern",
+          subtitle: "05/2023 - Present",
+          description: "DevOps things @ KeyBank."
+        },
+        {
           img: NG,
           title: "Cyber Software Engineer CO-OP",
-          subtitle: "01/2023 - Present",
-          description: "Doing cool stuff @ Northrop Grumman."
+          subtitle: "01/2023 - 05/2023",
+          description: "C o d i n g."
         },
         {
           img: KFC,
@@ -28,13 +34,8 @@ class ProductList extends Component {
           title: "Digital Development Intern",
           subtitle: "11/2020 - 10/2021",
           description: "Part of the Scrum team. Wrote PowerShell scripts to pull data from json files. Utilized Browserstack and Bomgar for POS and Confidence testing."
-        },
-        {
-          img: KYWORKS,
-          title: "Student Developer",
-          subtitle: "6/2020 - 8/2020",
-          description: "Completed assigned online courses to gain a better understanding of JavaScript and Python programming languages utilizing the Bracket software."
         }
+        
       ]
     };
   }
