@@ -14,8 +14,8 @@ class ProductList extends Component {
         {
           img: KB,
           title: "DevOps Engineer Intern",
-          subtitle: "05/2023 - Present",
-          description: "DevOps things @ KeyBank."
+          subtitle: "05/2023 - 08/2023",
+          description: "ServiceNow Developer"
         },
         {
           img: NG,
@@ -26,7 +26,7 @@ class ProductList extends Component {
         {
           img: KFC,
           title: "Software Engineer Intern",
-          subtitle: "10/2021 - Present",
+          subtitle: "10/2021 - 01/2023",
           description: "Participating in code reviews, sprint planning, and peer coding exercises. Utilizing React framework and TypeScript to work on KFC.com."
         },
         {

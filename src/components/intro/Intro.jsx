@@ -10,7 +10,7 @@ const Intro = () => {
                     <h1 className="i-name">Gobin Bastola</h1>
                     <div className="i-title">
                         <div className="i-title-wrapper">
-                            <div className="i-title-item">Software Developer</div>
+                            <div className="i-title-item">Engineer</div>
                             <div className="i-title-item">Student</div>
                             <div className="i-title-item">Avid Reader</div>
                             <div className="i-title-item">Mentor</div>
@@ -18,7 +18,7 @@ const Intro = () => {
                         </div>
                     </div>  
                     <p className="i-desc">
-                        Student <em> @ </em> UofL | DevOps Enginner Intern <em>@</em> KeyBank
+                        Computer Science Student <em> @ </em> UofL
                     </p>
                 </div>
                 <svg
